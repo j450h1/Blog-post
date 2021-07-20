@@ -1,0 +1,216 @@
+---
+title: "Jas Sohi's resume"
+author: Jas Sohi
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - resume
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jsohi@me.com
+- <i class="fa fa-github"></i> [github.com/j450h1](https://github.com/j450h1)
+- <i class="fa fa-phone"></i> +1 604-787-1173
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in data analysis, full stack data science, and reproducible methods.
+
+- Highly skilled in R, Bash, Python, & SQL
+
+- ML
+
+- Cloud
+
+- Spark
+
+- Git
+
+- ETL
+
+- Dashboarding/Visualizations
+
+Achievements:
+
+- Google Cloud Certified 2x
+
+- Google Analytics + Adobe Analytics Certified
+
+- Completed 50+ Data Science certifications
+
+- Regular StackOverflow contributor (top 25% in 2019)
+
+
+<!-- HOBBIES: Trampoline jumper, snowshoer, Poker, Floatation tanks, Skier, Yogi, and Hiker. Many of these activities are highly correlated to shoulder dislocations (about once a year). -->
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Jas Sohi {#title}
+--------------------------------------------------------------------------------
+
+### Jas "like Jazz 🎷 music" 
+
+
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Udacity
+
+Udacity Data Analyst Nanodegree
+
+Online
+
+2015
+
+Part of 1st ever cohort - learned Data Science from top Silicon Valley instructors
+
+### Simon Fraser University 
+
+B.B.A. in MIS, Finance, & Entrepreneurship
+
+Burnaby, BC, Canada
+
+2009
+
+Graduated from one of Canada's top universities and participated in unique TechOne program
+
+
+Work Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Senior Data Analyst, Office Data Science (OXO)
+
+Microsoft
+
+Vancouver, Canada
+
+April 2021 - Present
+
+I'm responsible for creating, expanding, and optimizing Office data sets and data pipelines, as well as optimizing data collection and workflows used by our cross-functional Data Science team. 
+
+As an embedded data analyst, I will partner with other data scientists and product teams, to build full stack data science solutions using data from some of the world’s largest cloud apps.
+
+### Principal Consultant, Data Science
+
+Cardinal Path
+
+Vancouver, Canada
+
+June 2015 - April 2021
+
+::: concise
+Lead a data driven segments (DDS) project to categorize millions of unknown website visitors
+into 8 clusters using a combination of unsupervised ML (k-means clustering) & supervised
+ML (Decision Trees). These segments allow the Fortune 500 client to personalize the experience (at
+scale) for visitors with different characteristics/behaviors. Technologies/methods : k-means
+clustering, decision trees, Spark (python), Databricks, Impala (SQL)
+
+Showcased out of the box thinking to completely revamp an error-prone ETL process for one of
+the world’s largest music companies (combining together hundreds of Artists’ website data along
+with their metadata). Technologies/methods : Google Cloud Storage (buckets), BigQuery, Tableau
+:::
+
+
+
+Other Work Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Supply Chain Coordinator
+
+BuildDirect.com
+
+Vancouver, Canada
+
+August 2013 - November 2014
+
+::: concise
+- Owner of the Smartsheet implementation for the Inventory Department (only 1 of 3 in the entire
+company of 200+).
+- Became a product expert by designing and testing several Smartsheets to lean out inefficient email processes and encourage collaboration.
+- Managed & trained 5 people on the Inventory Administration team.
+- 1 of 2 Certified Supply Chain Professionals amongst the Inventory Department (20+ people).
+:::
+
+### Inventory Management Analyst
+
+BuildDirect.com
+
+Vancouver, Canada
+
+May 2012 - August 2013
+
+::: concise
+- Tested, pitched, and implemented a time tracking service (Toggl) throughout the entire
+department.
+- This helped gather the data to visualize each analyst’s workload and built a strong case for us to
+hire more analysts and focus on our core competencies.
+:::
+
+### Inside Sales Representative
+
+BuildDirect.com
+
+Vancouver, Canada
+
+October 2010 - May 2012
+
+::: concise
+- Showed consistent sales growth MoM ending with a personal best of $150k in May 2012.
+- 85% of my customers rated my customer service as good or excellent.
+- Volunteered to design a tile layout diagram to educate customers (still being used on the site)
+:::
+
+### Senior Sales Consultant
+
+BuildDirect.com
+
+Vancouver, Canada
+
+August 2008 - October 2010
+
+::: concise
+- 100% on mystery shop (only 2nd out of 9 employees).
+- 9 straight months of green in all metrics (activations, warranties, & accessories).
+- As a key holder and senior consultant, trained new employees.
+:::
+
+### Census Enumerator
+
+Statistics Canada
+
+Vancouver, Canada
+
+July 2006 - Aug 2006
+
+::: concise
+- Contacted citizens, by phone or door-to-door, urging them to complete their Census forms.
+- Learned a lot about the roadblocks to collecting high-quality data
+:::
