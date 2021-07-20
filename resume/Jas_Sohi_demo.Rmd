@@ -127,7 +127,7 @@ Vancouver, Canada
 June 2015 - April 2021
 
 ::: concise
-Lead a data driven segments (DDS) project to categorize millions of unknown website visitors
+Led a data driven segments (DDS) project to categorize millions of unknown website visitors
 into 8 clusters using a combination of unsupervised ML (k-means clustering) & supervised
 ML (Decision Trees). These segments allow the Fortune 500 client to personalize the experience (at
 scale) for visitors with different characteristics/behaviors. Technologies/methods : k-means
