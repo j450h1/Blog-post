@@ -19,11 +19,12 @@ Aside
 <!-- ![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
 
 
-Contact Info {#contact}
+Contact/Links {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> jsohi@me.com
+- <i class="fa fa-globe"></i> [www.jassohi.com](https://www.jassohi.com)
 - <i class="fa fa-github"></i> [github.com/j450h1](https://github.com/j450h1)
+- <i class="fa fa-envelope"></i> jsohi@me.com
 - <i class="fa fa-phone"></i> +1 604-787-1173
 
 Skills {#skills}
@@ -52,9 +53,6 @@ Achievements:
 - Google Analytics + Adobe Analytics Certified
 
 - Completed 50+ Data Science certifications
-
-- Regular StackOverflow contributor (top 25% in 2019)
-
 
 <!-- HOBBIES: Trampoline jumper, snowshoer, Poker, Floatation tanks, Skier, Yogi, and Hiker. Many of these activities are highly correlated to shoulder dislocations (about once a year). -->
 
